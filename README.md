@@ -5,3 +5,5 @@ Prediction Using Supervised Learning: Predict the percentage score of a student 
 Prediction Using Unsupervised Learning: From the given dataset predict the optimum number of clusters and represent it visually
 ## Task 3:
 Exploratory Data Analysis: Try to find out the weak areas where you can work to make more profit as a business manager at a sample Superstore.(PowerBI)
+## Task 4:
+Prediction Using Decision Tree Algorithm: Create the decision tree classifier to predict a right class if fed with any new data and visualise it.
